@@ -22,10 +22,9 @@
         } else {
             echo "<td><img src='../assets/negro.png'></td>";
         }
-
+    }
         echo "</tr>";
     }
-
     echo "</table>";
 
     ?>
